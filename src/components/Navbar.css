@@ -1,0 +1,10 @@
+.navbar__container {
+    background-color: rgb(24, 24, 92);
+    text-align: center;
+}
+
+.navbar__container a {
+    color: white;
+    padding: 15px;
+    display: inline-block;
+}
